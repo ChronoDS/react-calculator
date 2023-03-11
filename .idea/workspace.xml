@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01712166-c4ad-4bfe-a6f9-dc415783e84e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-    </list>
+    <list default="true" id="01712166-c4ad-4bfe-a6f9-dc415783e84e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +48,7 @@
       <option name="presentableId" value="Default" />
       <updated>1566416103408</updated>
       <workItem from="1566416105279" duration="294000" />
-      <workItem from="1678522459749" duration="605000" />
+      <workItem from="1678522459749" duration="896000" />
     </task>
     <task id="LOCAL‎-00001" summary="move to npm, migrated to 3.1.2 (those updates are just for the sake of security and clear alert - as to not miss those on critical projects)">
       <created>1678523048431</created>
@@ -61,7 +57,35 @@
       <option name="project" value="LOCAL‎" />
       <updated>1678523048431</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL‎-00002" summary="move to npm, migrated react-scripts to 3.2.0.">
+      <created>1678523181285</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL‎-00002" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1678523181285</updated>
+    </task>
+    <task id="LOCAL‎-00003" summary="move to npm, migrated react-scripts to 3.3.0.">
+      <created>1678523264565</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL‎-00003" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1678523264565</updated>
+    </task>
+    <task id="LOCAL‎-00004" summary="move to npm, migrated react-scripts to 3.4.0.">
+      <created>1678523313303</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL‎-00004" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1678523313303</updated>
+    </task>
+    <task id="LOCAL‎-00005" summary="move to npm, migrated react-scripts to 3.4.4.">
+      <created>1678523392236</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL‎-00005" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1678523392236</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -69,6 +93,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="move to npm, migrated to 3.1.2 (those updates are just for the sake of security and clear alert - as to not miss those on critical projects)" />
-    <option name="LAST_COMMIT_MESSAGE" value="move to npm, migrated to 3.1.2 (those updates are just for the sake of security and clear alert - as to not miss those on critical projects)" />
+    <MESSAGE value="move to npm, migrated react-scripts to 3.2.0." />
+    <MESSAGE value="move to npm, migrated react-scripts to 3.3.0." />
+    <MESSAGE value="move to npm, migrated react-scripts to 3.4.0." />
+    <MESSAGE value="move to npm, migrated react-scripts to 3.4.4." />
+    <option name="LAST_COMMIT_MESSAGE" value="move to npm, migrated react-scripts to 3.4.4." />
   </component>
 </project>
