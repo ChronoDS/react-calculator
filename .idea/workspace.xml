@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01712166-c4ad-4bfe-a6f9-dc415783e84e" name="Default Changelist" comment="" />
+    <list default="true" id="01712166-c4ad-4bfe-a6f9-dc415783e84e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1566416103408</updated>
       <workItem from="1566416105279" duration="294000" />
-      <workItem from="1678522459749" duration="896000" />
+      <workItem from="1678522459749" duration="1185000" />
     </task>
     <task id="LOCAL‎-00001" summary="move to npm, migrated to 3.1.2 (those updates are just for the sake of security and clear alert - as to not miss those on critical projects)">
       <created>1678523048431</created>
@@ -85,7 +88,21 @@
       <option name="project" value="LOCAL‎" />
       <updated>1678523392236</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL‎-00006" summary="move to npm, migrated react-scripts to 4.0.0.">
+      <created>1678523526256</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL‎-00006" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1678523526256</updated>
+    </task>
+    <task id="LOCAL‎-00007" summary="move to npm, migrated react-scripts to 4.0.3.(latest 4.x.x)">
+      <created>1678523606477</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL‎-00007" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1678523606477</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,6 +114,8 @@
     <MESSAGE value="move to npm, migrated react-scripts to 3.3.0." />
     <MESSAGE value="move to npm, migrated react-scripts to 3.4.0." />
     <MESSAGE value="move to npm, migrated react-scripts to 3.4.4." />
-    <option name="LAST_COMMIT_MESSAGE" value="move to npm, migrated react-scripts to 3.4.4." />
+    <MESSAGE value="move to npm, migrated react-scripts to 4.0.0." />
+    <MESSAGE value="move to npm, migrated react-scripts to 4.0.3.(latest 4.x.x)" />
+    <option name="LAST_COMMIT_MESSAGE" value="move to npm, migrated react-scripts to 4.0.3.(latest 4.x.x)" />
   </component>
 </project>

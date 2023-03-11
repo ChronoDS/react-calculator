@@ -1,3 +1,6 @@
+Updated the project react-scripts to 5.0.1 for security only,
+this project is not actively maintained.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
