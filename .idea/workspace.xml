@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="01712166-c4ad-4bfe-a6f9-dc415783e84e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,11 +52,23 @@
       <option name="presentableId" value="Default" />
       <updated>1566416103408</updated>
       <workItem from="1566416105279" duration="294000" />
-      <workItem from="1678522459749" duration="297000" />
+      <workItem from="1678522459749" duration="605000" />
     </task>
+    <task id="LOCAL‎-00001" summary="move to npm, migrated to 3.1.2 (those updates are just for the sake of security and clear alert - as to not miss those on critical projects)">
+      <created>1678523048431</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL‎-00001" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1678523048431</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="move to npm, migrated to 3.1.2 (those updates are just for the sake of security and clear alert - as to not miss those on critical projects)" />
+    <option name="LAST_COMMIT_MESSAGE" value="move to npm, migrated to 3.1.2 (those updates are just for the sake of security and clear alert - as to not miss those on critical projects)" />
   </component>
 </project>
